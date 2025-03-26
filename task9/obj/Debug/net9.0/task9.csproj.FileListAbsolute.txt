@@ -1,0 +1,15 @@
+/Users/jyotsnadasari/Desktop/task2/task9/bin/Debug/net9.0/task9
+/Users/jyotsnadasari/Desktop/task2/task9/bin/Debug/net9.0/task9.deps.json
+/Users/jyotsnadasari/Desktop/task2/task9/bin/Debug/net9.0/task9.runtimeconfig.json
+/Users/jyotsnadasari/Desktop/task2/task9/bin/Debug/net9.0/task9.dll
+/Users/jyotsnadasari/Desktop/task2/task9/bin/Debug/net9.0/task9.pdb
+/Users/jyotsnadasari/Desktop/task2/task9/obj/Debug/net9.0/task9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jyotsnadasari/Desktop/task2/task9/obj/Debug/net9.0/task9.AssemblyInfoInputs.cache
+/Users/jyotsnadasari/Desktop/task2/task9/obj/Debug/net9.0/task9.AssemblyInfo.cs
+/Users/jyotsnadasari/Desktop/task2/task9/obj/Debug/net9.0/task9.csproj.CoreCompileInputs.cache
+/Users/jyotsnadasari/Desktop/task2/task9/obj/Debug/net9.0/task9.sourcelink.json
+/Users/jyotsnadasari/Desktop/task2/task9/obj/Debug/net9.0/task9.dll
+/Users/jyotsnadasari/Desktop/task2/task9/obj/Debug/net9.0/refint/task9.dll
+/Users/jyotsnadasari/Desktop/task2/task9/obj/Debug/net9.0/task9.pdb
+/Users/jyotsnadasari/Desktop/task2/task9/obj/Debug/net9.0/task9.genruntimeconfig.cache
+/Users/jyotsnadasari/Desktop/task2/task9/obj/Debug/net9.0/ref/task9.dll
