@@ -1,0 +1,15 @@
+/Users/jyotsnadasari/Desktop/task2/task13/obj/Debug/net9.0/task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jyotsnadasari/Desktop/task2/task13/obj/Debug/net9.0/task13.AssemblyInfoInputs.cache
+/Users/jyotsnadasari/Desktop/task2/task13/obj/Debug/net9.0/task13.AssemblyInfo.cs
+/Users/jyotsnadasari/Desktop/task2/task13/obj/Debug/net9.0/task13.csproj.CoreCompileInputs.cache
+/Users/jyotsnadasari/Desktop/task2/task13/obj/Debug/net9.0/task13.sourcelink.json
+/Users/jyotsnadasari/Desktop/task2/task13/bin/Debug/net9.0/task13
+/Users/jyotsnadasari/Desktop/task2/task13/bin/Debug/net9.0/task13.deps.json
+/Users/jyotsnadasari/Desktop/task2/task13/bin/Debug/net9.0/task13.runtimeconfig.json
+/Users/jyotsnadasari/Desktop/task2/task13/bin/Debug/net9.0/task13.dll
+/Users/jyotsnadasari/Desktop/task2/task13/bin/Debug/net9.0/task13.pdb
+/Users/jyotsnadasari/Desktop/task2/task13/obj/Debug/net9.0/task13.dll
+/Users/jyotsnadasari/Desktop/task2/task13/obj/Debug/net9.0/refint/task13.dll
+/Users/jyotsnadasari/Desktop/task2/task13/obj/Debug/net9.0/task13.pdb
+/Users/jyotsnadasari/Desktop/task2/task13/obj/Debug/net9.0/task13.genruntimeconfig.cache
+/Users/jyotsnadasari/Desktop/task2/task13/obj/Debug/net9.0/ref/task13.dll
