@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/task4/task4.csproj",
+      "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/TempCal/task4.csproj",
       "projectName": "task4",
-      "projectPath": "/Users/jyotsnadasari/Desktop/task2/task4/task4.csproj",
+      "projectPath": "/Users/jyotsnadasari/Desktop/task2/TempCal/task4.csproj",
       "packagesPath": "/Users/jyotsnadasari/.nuget/packages/",
-      "outputPath": "/Users/jyotsnadasari/Desktop/task2/task4/obj/",
+      "outputPath": "/Users/jyotsnadasari/Desktop/task2/TempCal/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jyotsnadasari/.nuget/NuGet/NuGet.Config"
