@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/task11/task11.csproj",
+      "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/SpellWord/task11.csproj",
       "projectName": "task11",
-      "projectPath": "/Users/jyotsnadasari/Desktop/task2/task11/task11.csproj",
+      "projectPath": "/Users/jyotsnadasari/Desktop/task2/SpellWord/task11.csproj",
       "packagesPath": "/Users/jyotsnadasari/.nuget/packages/",
-      "outputPath": "/Users/jyotsnadasari/Desktop/task2/task11/obj/",
+      "outputPath": "/Users/jyotsnadasari/Desktop/task2/SpellWord/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jyotsnadasari/.nuget/NuGet/NuGet.Config"

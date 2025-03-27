@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/task6/task6.csproj",
+      "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/DayName/task6.csproj",
       "projectName": "task6",
-      "projectPath": "/Users/jyotsnadasari/Desktop/task2/task6/task6.csproj",
+      "projectPath": "/Users/jyotsnadasari/Desktop/task2/DayName/task6.csproj",
       "packagesPath": "/Users/jyotsnadasari/.nuget/packages/",
-      "outputPath": "/Users/jyotsnadasari/Desktop/task2/task6/obj/",
+      "outputPath": "/Users/jyotsnadasari/Desktop/task2/DayName/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jyotsnadasari/.nuget/NuGet/NuGet.Config"

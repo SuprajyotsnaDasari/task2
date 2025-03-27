@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jyotsnadasari/Desktop/task2/task17/task17.csproj": {}
+    "/Users/jyotsnadasari/Desktop/task2/PositiveNumber/task17.csproj": {}
   },
   "projects": {
-    "/Users/jyotsnadasari/Desktop/task2/task17/task17.csproj": {
+    "/Users/jyotsnadasari/Desktop/task2/PositiveNumber/task17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/task17/task17.csproj",
+        "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/PositiveNumber/task17.csproj",
         "projectName": "task17",
-        "projectPath": "/Users/jyotsnadasari/Desktop/task2/task17/task17.csproj",
+        "projectPath": "/Users/jyotsnadasari/Desktop/task2/PositiveNumber/task17.csproj",
         "packagesPath": "/Users/jyotsnadasari/.nuget/packages/",
-        "outputPath": "/Users/jyotsnadasari/Desktop/task2/task17/obj/",
+        "outputPath": "/Users/jyotsnadasari/Desktop/task2/PositiveNumber/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jyotsnadasari/.nuget/NuGet/NuGet.Config"

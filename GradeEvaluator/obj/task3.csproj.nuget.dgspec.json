@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jyotsnadasari/Desktop/task2/task3/task3.csproj": {}
+    "/Users/jyotsnadasari/Desktop/task2/GradeEvaluator/task3.csproj": {}
   },
   "projects": {
-    "/Users/jyotsnadasari/Desktop/task2/task3/task3.csproj": {
+    "/Users/jyotsnadasari/Desktop/task2/GradeEvaluator/task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/task3/task3.csproj",
+        "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/GradeEvaluator/task3.csproj",
         "projectName": "task3",
-        "projectPath": "/Users/jyotsnadasari/Desktop/task2/task3/task3.csproj",
+        "projectPath": "/Users/jyotsnadasari/Desktop/task2/GradeEvaluator/task3.csproj",
         "packagesPath": "/Users/jyotsnadasari/.nuget/packages/",
-        "outputPath": "/Users/jyotsnadasari/Desktop/task2/task3/obj/",
+        "outputPath": "/Users/jyotsnadasari/Desktop/task2/GradeEvaluator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jyotsnadasari/.nuget/NuGet/NuGet.Config"

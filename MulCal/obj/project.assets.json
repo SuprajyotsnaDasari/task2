@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/task12/task12.csproj",
+      "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/MulCal/task12.csproj",
       "projectName": "task12",
-      "projectPath": "/Users/jyotsnadasari/Desktop/task2/task12/task12.csproj",
+      "projectPath": "/Users/jyotsnadasari/Desktop/task2/MulCal/task12.csproj",
       "packagesPath": "/Users/jyotsnadasari/.nuget/packages/",
-      "outputPath": "/Users/jyotsnadasari/Desktop/task2/task12/obj/",
+      "outputPath": "/Users/jyotsnadasari/Desktop/task2/MulCal/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jyotsnadasari/.nuget/NuGet/NuGet.Config"

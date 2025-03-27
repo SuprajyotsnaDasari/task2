@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/task13/task13.csproj",
+      "projectUniqueName": "/Users/jyotsnadasari/Desktop/task2/CalCulator/task13.csproj",
       "projectName": "task13",
-      "projectPath": "/Users/jyotsnadasari/Desktop/task2/task13/task13.csproj",
+      "projectPath": "/Users/jyotsnadasari/Desktop/task2/CalCulator/task13.csproj",
       "packagesPath": "/Users/jyotsnadasari/.nuget/packages/",
-      "outputPath": "/Users/jyotsnadasari/Desktop/task2/task13/obj/",
+      "outputPath": "/Users/jyotsnadasari/Desktop/task2/CalCulator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jyotsnadasari/.nuget/NuGet/NuGet.Config"
